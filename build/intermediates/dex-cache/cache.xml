@@ -21,21 +21,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bryan.yen/.android/build-cache/c8b5784be1355552139da4cd4b77b51869e2526b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
-        <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_9b9e682f6961f64dfdd1da631f4cf3573db4364a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/bryan.yen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="023ee503b631f69511e335a061ea008f8da60f40">
         <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_e51ee32777958c2d186368590b57c2d63c4b4960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan.yen/.android/build-cache/c53963d461666a880e0f62cc9f70d53fe5398699/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_0303d422650cecd8eb6f6f41691e0193ed5626f2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,21 +57,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bryan.yen/.android/build-cache/85bb3d76fc5024e4a1457546258ca11c28d15e05/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="d74bfb5306aee8dbfa746b48842f87c01c64f6ac">
-        <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_90a5444378d8d4ef43942b262036cd7fff1973e4.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/bryan.yen/.android/build-cache/f22b2b72847f84c6504fc2d18ee23f1a6f07680c/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="9935891f23923f39d002087085d9696568a9f657">
         <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_b1a83eed8da3d084fa89e9e33848a079a8dd465c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan.yen/.android/build-cache/6480802d9b2b4de69b00c76dcfc20a09603f3863/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_25d6e1dcff94b19b9d3e365caabb82f63f3fe25b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryan.yen/.android/build-cache/1b75e9062ddd2f3c9e1921a903a872b4adb35800/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_425bf823bf69c2d6c203a669c1d4faeee54f3a6a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,15 +93,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bryan.yen/.android/build-cache/8d12ed5fc68e3c276778fe7fb475981ade2c9860/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
-        <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_6e8f309eb1b76fbb9575929af81cb659ad40f8ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/bryan.yen/.android/build-cache/e902ca5d1d38ba74eca7f5c72f188e9982e1b808/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -102,21 +102,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/bryan.yen/.android/build-cache/2c46ceb711494940d22b38e9739016c6c5387afb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d74bfb5306aee8dbfa746b48842f87c01c64f6ac">
+        <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_da24473f44f5be8385fd830c7df3b17c7aebfa79.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/bryan.yen/.android/build-cache/8fb29eda5e24e164ae5635b6bde5129c0c744d06/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="2e92aa0163544a804a0b34f169ca61801770839a">
         <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_111ce56bb00a2999fc1c08025089e936f8039f08.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bryan.yen/.android/build-cache/cf66f557898da90826e898e2838f2ce04d242be7/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
-        <dex dex="/Users/bryan.yen/Documents/workspace/android/MySafetyNetApplication/app/build/intermediates/pre-dexed/debug/classes_507bb640e5d8d826dc05a86d2742b61fbf452ce1.jar" />
     </item>
     <item
         is-multidex="false"

@@ -30,5 +30,8 @@
         android:minWidth="40dp"
         app:layout_constraintLeft_toRightOf="@+id/button2"
         app:srcCompat="@drawable/ic_check"
-        tools:layout_editor_absoluteY="235dp"/>
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"/>
 </android.support.constraint.ConstraintLayout>
